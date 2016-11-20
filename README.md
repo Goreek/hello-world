@@ -1,2 +1,2 @@
 # hello-world
-Just time-honored tradition
+Nothing special. Just playing around.
